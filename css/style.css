@@ -1,0 +1,26 @@
+#foot{width:100%; background-color: #DCC;}
+        #title1{color: #CC00FF; font-family: Bauhaus 93, calibri; font-size: 80px;}
+        #title3{color: #F3498B; font-family: Bauhaus 93, calibri; font-size: 80px;}
+        #title2{color: #F7249A; font-family: Bauhaus 93, calibri; font-size: 80px;}
+        #container{margin: 5% 120% 5% 10%; width:1200px; padding:0px 60px 0px 0px;}
+        .divimg {text-align:center;}
+        p{color: #000; color: #363636; text-align: justify; font-size: 20px; font-family: Bauhaus 93, calibri;}
+        a{color: #900C3F; font-size: 30px; font-family: font-family: Bauhaus 93, calibri, arial;
+        }
+        h2{color: #900C3F; font-size: 50px;  text-align: center; font-family: Bauhaus 93, calibri, arial;
+        	}
+        h1{color: #000; color: #363636; text-align: center; font-size: 20px; font-family: Bauhaus 93, calibri; }
+        li{text-align: center;}
+        #enlace{color: #ccc;}
+        .divfoot a{text-decoration: none underline; color: #FFC300}
+        .izquierda{display: inline-block; margin: 3px 0px 20px 2px}
+        #banner{width: 100px
+                background-color:#000;
+                border-image: 10px 5px 2px 3px;
+                height:;
+                }
+
+        body{
+        	background-attachment: fixed;
+        	background-image: url("../images/full.JPG");
+        }
